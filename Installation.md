@@ -1,1 +1,1 @@
-[Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+[Java JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
